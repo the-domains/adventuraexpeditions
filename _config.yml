@@ -1,0 +1,28 @@
+name: adventuraexpeditions
+favicon: null
+layout_spectrum: 0.48526075342670083
+typography_spectrum: 0.38639920949935913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8951290869154036
+  lightness: 0.2342611886560917
+  saturation: 0.826598109677434
+  rhythmicContrast: 0.3714881206396967
+purpose: []
