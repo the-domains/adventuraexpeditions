@@ -5,15 +5,17 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  We specialise in sustainable trekking trips in the Himalayas of Nepal, the
-  Dolomites of Italy and the mountain ranges of Great britain. Whether it's a
-  trek from refuge to refuge, a via ferrata, a mountainboard experience in
-  Cortina d"Ampezzo in italy or a culturally immersive trek in Nepal; helping a
-  Nepalese village in the process with our adventura foundation or a trekking
-  adventure in the highlands of Scotland, guided walks in Snowdonia in Wales: we
-  have the custom made trip of a lifetime for you.
-datePublished: '2016-08-13T12:48:27.498Z'
-dateModified: '2016-08-13T12:32:01.765Z'
+  adventure expeditions is a trekking company that specialise in sustainable and
+  culturally immersive trips to take you to some of the most beautiful mountains
+  in the world: whether it be within the British Isles, Cortina d'Ampezzo in the
+  Italian Dolomites to the Himalays of Nepal. Where we have our adventure
+  foundation. We offer guided high level mountain walks, via ferrata, refuge to
+  refuge and Himalayan guided routes, including Everest, maximising each day for
+  all ages, schools, disadvantaged children, child carers and our more able
+  clients. You don't need to be an athlete, just a love of mountains and a
+  certain degree of hill walking fitness.
+datePublished: '2016-08-13T13:13:56.345Z'
+dateModified: '2016-08-13T13:13:50.244Z'
 title: ''
 author:
   - name: ''
@@ -22,15 +24,10 @@ via: {}
 sourcePath: >-
   _posts/2016-08-12-we-specialise-in-sustainable-trekking-trips-in-the-himalayas.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 starred: false
 url: we-specialise-in-sustainable-trekking-trips-in-the-himalayas/index.html
 _type: Article
 
 ---
-We specialise in sustainable trekking trips in the Himalayas of Nepal, the Dolomites of Italy and the mountain ranges of Great britain. Whether it's a trek from refuge to refuge, a via ferrata, a mountainboard experience in Cortina d"Ampezzo in italy or a culturally immersive trek in Nepal; helping a Nepalese village in the process with our adventura foundation or a trekking adventure in the highlands of Scotland, guided walks in Snowdonia in Wales: we have the custom made trip of a lifetime for you.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c05fde6-c9a7-474a-82b2-5039273d02ea.jpg)
+adventure expeditions is a trekking company that specialise in sustainable and culturally immersive trips to take you to some of the most beautiful mountains in the world: whether it be within the British Isles, Cortina d'Ampezzo in the Italian Dolomites to the Himalays of Nepal. Where we have our adventure foundation. We offer guided high level mountain walks, via ferrata, refuge to refuge and Himalayan guided routes, including Everest, maximising each day for all ages, schools, disadvantaged children, child carers and our more able clients. You don't need to be an athlete, just a love of mountains and a certain degree of hill walking fitness.
