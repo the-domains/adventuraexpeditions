@@ -12,18 +12,20 @@ description: >-
   Nepalese village in the process with our adventura foundation or a trekking
   adventure in the highlands of Scotland, guided walks in Snowdonia in Wales: we
   have the custom made trip of a lifetime for you.
-datePublished: '2016-08-13T12:25:32.351Z'
-dateModified: '2016-08-13T12:25:31.880Z'
+datePublished: '2016-08-13T12:31:53.915Z'
+dateModified: '2016-08-13T12:29:12.113Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: >-
   _posts/2016-08-12-we-specialise-in-sustainable-trekking-trips-in-the-himalayas.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: we-specialise-in-sustainable-trekking-trips-in-the-himalayas/index.html
