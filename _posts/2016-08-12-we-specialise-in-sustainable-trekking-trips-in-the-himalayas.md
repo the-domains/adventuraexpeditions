@@ -12,8 +12,8 @@ description: >-
   Nepalese village in the process with our adventura foundation or a trekking
   adventure in the highlands of Scotland, guided walks in Snowdonia in Wales: we
   have the custom made trip of a lifetime for you.
-datePublished: '2016-08-13T12:31:53.915Z'
-dateModified: '2016-08-13T12:29:12.113Z'
+datePublished: '2016-08-13T12:48:27.498Z'
+dateModified: '2016-08-13T12:32:01.765Z'
 title: ''
 author:
   - name: ''
